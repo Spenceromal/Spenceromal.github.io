@@ -1,0 +1,22 @@
+main{
+  background-color: #0040ff;
+  color: black;
+}
+body{
+  background: url(Images/chicago.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#wrapper{
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+}
+ul{
+  list-style-image: url(Images/icon.png);
+}
+#borderpic {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(Images/wrigley.jpg) 30 round;
+}
