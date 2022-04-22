@@ -1,0 +1,22 @@
+#table1 {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid;
+  background-color: grey;
+}
+#table2 {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid;
+  background-color: tan;
+}
+#table3 {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid;
+  background-color: darkcyan;
+}
+
+table, th, td {
+  border: 1px solid;
+}
